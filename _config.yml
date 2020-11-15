@@ -1,11 +1,17 @@
-title: John Doe # your name (or website title) here
+title: Mohammed Muzzammil # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I’m a computer Science Engineer and a Data science enthusiast who creates softwares/applications for real life problems.
+  I solve problems in creative ways. At Anjuman College, where I am completing my Bachelors in computer science.
+  I have a mediocre level python skills and an advance level SQL skill.
+  I have a good knowledge of Data Structures and operating systems.
   <br><br>
-  Second description 
+  I have scored 1st place in Python on the website Hackerrank.
+  I have scored a second place in a state level project Competition for the project Title Home automation and fitness tracking.
+  I have also lead a team of 5 on a Data Base project. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Currently i am working as a Intern
+  <a href="https://www.linkedin.com/in/mohammed-muzzammil-6774a4164">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-S329BZ0Z20 # your Google Analytics tracking ID here
