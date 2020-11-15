@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I’m a computer Science Engineer and a Data science enthusiast who creates softwares/applications for real life problems.
   <br><br>
-  Currently i am working as a Intern
+  Currently i am working as a Intern.
   <a href="https://www.linkedin.com/in/mohammed-muzzammil-6774a4164">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
